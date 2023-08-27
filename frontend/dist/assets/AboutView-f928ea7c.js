@@ -1,0 +1,1 @@
+import{_ as a,o,e as t,I as s,J as _,k as c}from"./index-7043ddb1.js";const n={},d=e=>(s("data-v-2aaff4e8"),e=e(),_(),e),p=d(()=>c("h1",null,"This is an about page",-1)),f=[p];function i(e,r){return o(),t("div",null,f)}const l=a(n,[["render",i],["__scopeId","data-v-2aaff4e8"]]);export{l as default};
