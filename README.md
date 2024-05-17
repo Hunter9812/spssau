@@ -1,7 +1,7 @@
 # SPSSAU
 ## 简介
-一个进行方差分析的网页。
+学习前后端分离时的练手项目，一个简单的方差分析的页面。
 
-- 前端：vue3+elementplus
-- 后端：django
+- 前端：Vue3 + Element Plus
+- 后端：Django
     - [接口文档](./backend/README.md)
